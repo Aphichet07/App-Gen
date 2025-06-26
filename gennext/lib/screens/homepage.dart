@@ -6,6 +6,6 @@ class Homepage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Loading();
+    return Scaffold(backgroundColor: Color.fromRGBO(241, 241, 242, 1));
   }
 }

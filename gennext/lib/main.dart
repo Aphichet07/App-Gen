@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:gennext/screens/homepage.dart';
 import 'package:gennext/screens/loading.dart';
 
 void main() {
@@ -11,6 +12,6 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Loading());
+    return MaterialApp(home: Homepage());
   }
 }
