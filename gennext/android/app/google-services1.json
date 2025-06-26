@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551978433526",
+    "project_id": "gennext-26f03",
+    "storage_bucket": "gennext-26f03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551978433526:android:7dc772191c4e9d72d3e5d7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FuBlzQNzu4jyg0LAjRkJiJgUi6hV6ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551978433526:android:a81e7da81e5d6306d3e5d7",
+        "android_client_info": {
+          "package_name": "com.example.gennext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FuBlzQNzu4jyg0LAjRkJiJgUi6hV6ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
